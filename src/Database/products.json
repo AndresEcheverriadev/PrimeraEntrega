@@ -1,0 +1,51 @@
+[
+  {
+    "nombre": "iPhoneX",
+    "precio": "1500",
+    "foto": "https://cdn4.iconfinder.com/data/icons/apple-products-2026/512/iPhone_X_home-screen-512.png",
+    "codigo": "IPX",
+    "stock": "26",
+    "timestamp": "2022-07-10T14:06:03.000Z",
+    "descripcion": "El iPhone X cuenta con una pantalla llamada Super Retina HD4 de 5.8 pulgadas de tipo OLED que cubre los espacios de color DCI-P3 y sRGB, y además es compatible con imágenes de alto rango dinámico (HDR). También incluye la tecnología True Tone que se encuentra en el iPad Pro y otros dispositivos de la compañía, y cuenta con un brillo máximo típico de 625 cd/m².",
+    "id": 1
+  },
+  {
+    "nombre": "iMac",
+    "precio": "6500",
+    "foto": "https://cdn4.iconfinder.com/data/icons/apple-products-2026/512/iMac-512.png",
+    "codigo": "IMA",
+    "stock": "5",
+    "timestamp": "2022-07-10T17:32:09.000Z",
+    "descripcion": "En 2021 Apple lanzó los iMac de colores que tienen el nuevo Chip M1 y Big Sur. La pantalla creció y ahora es de 24 pero aun así el iMac es más pequeño que otros años, puede tener hasta 2TB de almacenamiento.",
+    "id": 2
+  },
+  {
+    "nombre": "Apple TV",
+    "precio": "800",
+    "foto": "https://cdn1.iconfinder.com/data/icons/apple-products-2026/512/Apple_TV__Ovladac-512.png",
+    "codigo": "ATV",
+    "stock": "12",
+    "timestamp": "2022-07-10T18:28:03.000Z",
+    "descripcion": "Apple TV es un receptor digital multimedia diseñado, fabricado y distribuido por Apple Inc. El reproductor está diseñado para reproducir contenido multimedia digital desde la iTunes Store, Apple TV+, YouTube, Flickr, iCloud, Vimeo, Netflix o de un ordenador con macOS o Windows con iTunes en una televisión de alta definición.",
+    "id": 3
+  },
+  {
+    "nombre": "Ipad",
+    "precio": "1700",
+    "foto": "https://cdn4.iconfinder.com/data/icons/apple-products-2026/512/iPad_White_Front-512.png",
+    "codigo": "PAD",
+    "stock": "6",
+    "timestamp": "2022-07-10T16:53:11.000Z",
+    "descripcion": "iPad es una línea de tabletas diseñadas y comercializadas por Apple Inc. La primera generación fue anunciada el 27 de enero de 2010, mientras que el 2 de marzo de 2011 apareció la segunda generación. Se sitúa en una categoría entre un teléfono inteligente y una computadora portátil, enfocado más al acceso que a la creación de aplicaciones y temas.",
+    "id": 4
+  },
+  {
+    "nombre": "",
+    "codigo": "",
+    "foto": "",
+    "precio": "",
+    "stock": "",
+    "id": 5,
+    "timestamp": "2022-07-14T03:42:55.504Z"
+  }
+]
